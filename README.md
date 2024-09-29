@@ -12,3 +12,6 @@ Some additional words are included in this version:
 | `words` | prints all forth and user defined words |
 | `forget (name)` | forgets the following word from the dictionary |
 | `forget!` | forgets all user defined words |
+
+### Installation
+No installation required. Visit the [site](https://toukasz.github.io/commodore-forth/index.html) to view the project.
